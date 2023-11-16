@@ -18,9 +18,9 @@ This project is a Kanban Board application designed to help manage tasks, workfl
 
 ## Setup Instructions
 1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Configure environment variables.
-4. Run the application using `nodemon ./index.js.
+2. Go to root directory --> cd server.
+3. Install dependencies using `npm install`.
+4. Run the application using `nodemon ./index.js`.
 
 ## Usage
 1. Register or log in to access the Kanban Board.
